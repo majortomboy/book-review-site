@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(194, 171, 171);
+}
+
+h1,
+h2,
+h3 {
+    color:rebeccapurple;
+}
+
+header {
+    background-color:cadetblue;
+    border-color: darkgoldenrod;
+    border-style: dashed;
+}
+
+a:hover {
+    color:seagreen;
+}
+
+ul li {
+    list-style: none;
+}

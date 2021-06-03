@@ -1,0 +1,9 @@
+section,
+article {
+    text-align: center;
+}
+
+img {
+    border-style: dotted;
+    border-radius: 25%;
+}
